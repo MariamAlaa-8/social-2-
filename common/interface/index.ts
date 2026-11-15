@@ -1,0 +1,6 @@
+export * from './response.interface'
+export * from './error.interface'
+export * from './user.interface'
+export * from './paginate.interface'
+export * from './post.interface'
+export * from './comment.interface'
